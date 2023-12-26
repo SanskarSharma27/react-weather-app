@@ -21,7 +21,14 @@ This weather application provides users with real-time weather information for l
 
 ## Images
 
-![AutoComplete](./public/images/Autocomplete.png)
-![Forecast](./public/images/forecast.png)
-![More Details](./public/images/more_details.png)
+[AutoComplete]
+![Autocomplete](https://github.com/SanskarSharma27/react-weather-app/assets/77606983/b6b6e1fb-25d3-497c-9900-9bef5638ae1c)
+
+[Forecast]
+![forecast](https://github.com/SanskarSharma27/react-weather-app/assets/77606983/4ff00567-ba1c-43bd-95b4-d2258974fa2d)
+
+
+[More Details]
+![more_details](https://github.com/SanskarSharma27/react-weather-app/assets/77606983/18655bea-7ac8-43cb-87b4-c75c44f5f53c)
+
 
